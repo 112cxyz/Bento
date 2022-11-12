@@ -144,73 +144,35 @@ const CONFIG = {
 				},
 			],
 		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
-			],
-		},
 	],
 
 	// Second Links Container
-	secondListsContainer: [
-		{
-			icon: 'binary',
-			id: '1',
-			links: [
+],
+
+			secondButtonsContainer: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					id: '1',
+					name: 'Music',
+					icon: 'headphones',
+					link: 'https://open.spotify.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					id: '2',
+					name: 'twitter',
+					icon: 'twitter',
+					link: 'https://twitter.com/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					id: '3',
+					name: 'Discord',
+					icon: 'message-square',
+					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
-				},
-			],
-		},
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					id: '4',
+					name: 'iCloud',
+					icon: 'cloud',
+					link: 'https://beta.icloud.com/',
 				},
 			],
 		},
