@@ -116,7 +116,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Proxmox',
-			icon: 'x,
+			icon: 'x',
 			link: 'https://pmox.112c.co.uk/',
 		},
 		{
