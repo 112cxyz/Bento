@@ -88,7 +88,6 @@ const CONFIG = {
 			link: 'https://jelly.willow.112c.co.uk/',
 		},
 	],
-
 	secondButtonsContainer: [
 		{
 			id: '1',
@@ -113,6 +112,18 @@ const CONFIG = {
 			name: 'iCloud',
 			icon: 'cloud',
 			link: 'https://beta.icloud.com/',
+		},
+		{
+			id: '5',
+			name: 'Proxmox',
+			icon: 'x,
+			link: 'https://pmox.112c.co.uk/',
+		},
+		{
+			id: '6',
+			name: 'Spotify',
+			icon: 'music',
+			link: 'https://open.spotify.com/',
 		},
 	],
 };
