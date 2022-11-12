@@ -106,7 +106,7 @@ const CONFIG = {
 			{
 				id: '3',
 				name: 'Discord',
-				icon: 'bot',
+				icon: 'message-square',
 				link: 'https://discord.com/app',
 			},
 			{
